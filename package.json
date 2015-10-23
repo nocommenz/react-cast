@@ -1,0 +1,28 @@
+{
+  "name": "react-cast-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocommenz/react-cast.git"
+  },
+  "keywords": [
+    "helloworld",
+    "react"
+  ],
+  "author": "Piti Pitiaunchamroen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nocommenz/react-cast/issues"
+  },
+  "homepage": "https://github.com/nocommenz/react-cast#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-react": "^3.1.0"
+  }
+}
