@@ -1,4 +1,3 @@
-// Define a 'class'
 var Badge = React.createClass({
   render: function() {
     return <button className="btn btn-primary" type="button">
